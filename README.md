@@ -5,7 +5,7 @@ PewDiePie YouTube Channel Data Scraper and Visualization
 
 This GitHub repository houses a comprehensive project that focuses on PewDiePie's YouTube channel. The project's main objectives are data scraping, cleaning, storage, and visualization, providing valuable insights into one of the most popular YouTube channels on the platform.
 
-  ![Alt text](https://github.com/houda-moudni/PewDiePie-YouTube-Channel-Analysis/blob/main/Youtube-ETL/Images/DataETL.png)
+  ![Alt text](https://github.com/houda-moudni/PewDiePie-YouTube-Channel-Analysis/blob/main/Youtube-ETL/Images/Youtube_ETL.png)
 
 ## Features:
 
